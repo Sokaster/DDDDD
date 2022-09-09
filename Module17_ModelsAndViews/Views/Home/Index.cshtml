@@ -1,0 +1,41 @@
+﻿@model User[]
+
+@{
+    ViewBag.Title = "Home Page";
+    // Layout = "_TestLayout";
+    ViewBag.Partial = "Partial";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@*PERVOE*@
+@Html.Partial("_PartialView", "Fish")   @*(Если основное представление лежит в одной папке с главным представлением то достаточно названия)
+
+в скобках название частичного представления которое хотим вызвать. fish это строка которая передалась в паршиалвью моделью) *@
+@*@{Html.RenderPartial("_PartialView","Fish");} *@ @*работает быстрее паршиала. ОБОРАЧИВАТЬ В ФИГУРНЫЕ СКОБКИ!!!! ЛУЧШЕ ИСПОЛЬЗОВАТЬ ПАРШИАЛ
+    РЕНДЕР ПАРШИАЛ ЮЗАЮТ ТОЛЬКО ТАМ ГДЕ НЕОБХОДИМО. 
+*@
+
+@*SECOND: ГЕНЕРАЦИЯ ССЫЬЛКИ НИЖЕ: генерируем ссылку к экшену в контроллере хоум*@
+@Html.ActionLink("Link", "DataTransportByViewData")
+@Html.CheckBox("CheckBox",true) @*1 параметр: имя 2 параметр: значение (true/false) тоесть стоит галочка или нет*@
+
+
+<br />
+@await Component.InvokeAsync("Simple")  @*<br /> ПЕРЕНОС СТРАНИЦЫ. await ПРОСТО ПИШЕМ (ПОЗЖЕ УЗНАЕМ).сюда надо передать наш вьюкомпонент (Название) чтоб вывести (2+2). Смотри папку ВЬЮ КОМПОНЕНТ*@
+
+@*еще 2 метода :@**@
+
+@*Вывод через наследование: См папку сепарэйтКомпонентс@**@
+
+@await Component.InvokeAsync("SimpleComponentWithInheritance")
+
+<br />
+@*Вывод через Атрибут: См папку сепарэйтКомпонентс *@
+<br />
+@await Component.InvokeAsync("SimpleComponentWithAttribute")
+<br />
+@await Component.InvokeAsync("ViewExample") @*вьюкомпонент не пишем.  передали из папки хоум компонентс вьюэкземпл*@
+

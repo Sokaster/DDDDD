@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Module17_ModelsAndViews
+build_property.RootNamespace = Module17_ModelsAndViews
+build_property.ProjectDir = D:\sss\TeachMeSkillsExamples\Module17_ModelsAndViews\Module17_ModelsAndViews\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\sss\TeachMeSkillsExamples\Module17_ModelsAndViews\Module17_ModelsAndViews
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/Components/ViewExample/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFZpZXdFeGFtcGxlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/Components/ViewExample/ViewExample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFZpZXdFeGFtcGxlXFZpZXdFeGFtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/DataTransportByModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhVHJhbnNwb3J0QnlNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/DataTransportByViewBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhVHJhbnNwb3J0QnlWaWV3QmFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/DataTransportByViewData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhVHJhbnNwb3J0QnlWaWV3RGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/GetUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/GetUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/ViewWithSeparateLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3V2l0aFNlcGFyYXRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/_PartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/_RenderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUmVuZGVyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Home/_ViewComponentsExample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVmlld0NvbXBvbmVudHNFeGFtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Shared/_TestLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZXN0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sss/TeachMeSkillsExamples/Module17_ModelsAndViews/Module17_ModelsAndViews/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ywl90slqr2

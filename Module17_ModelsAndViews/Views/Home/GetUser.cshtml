@@ -1,0 +1,12 @@
+﻿@model UserViewModel
+
+@Html.DisplayFor(user => user.Name)
+@Html.TextBoxFor(q => q.Name)
+@*@Html.CheckBoxFor(q => true)*@
+ @*SOZDAEM FORMY CHEREZ BEGINFORM CLIENT-SERVER*@
+@using(Html.BeginForm(FormMethod.Post)){
+    @Html.TextBoxFor(q => q.Name)
+    @Html.TextBoxFor(q => q.Age)
+    @Html.TextBoxFor(q => q.Email)
+    <button type="submit">Click</button>
+}

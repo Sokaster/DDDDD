@@ -1,0 +1,13 @@
+﻿@model User[]
+
+@{
+    ViewBag.Title = "ViewWithSeparateLayout";
+    Layout = "_TestLayout";
+}
+
+<ul>
+    @foreach (var user in Model)
+    {
+        <li>@("Name: " + user.Name + " Age: " + user.Age + " City: " + user.City)</li>
+    }
+</ul>
